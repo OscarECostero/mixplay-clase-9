@@ -1,0 +1,21 @@
+composer and git
+
+1- Crear un directorio (nombre-del-directorio)
+    mkdir nombre-del-directorio
+
+2- Ingresar al directorio
+    cd nombre-del-directorio
+
+3- Inicializar el repositorio
+    git init
+
+4- Crear una rama
+    git branch nombre-del-branch
+    git checkout nombre-del-branch
+
+5- Empezar a trabajar en ese espacio
+    mkdir src (crear el directorio src)
+    composer init
+    composer update (actualizar las librerias requeridas)
+
+
